@@ -1,0 +1,3 @@
+PyQt5 application that recursively scans all PDF files within a specified root directory and extracts the article identifiers.
+
+Supported identifiers: (arXiv, DOI, Physical Review, ISBN)
